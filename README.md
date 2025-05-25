@@ -7,7 +7,8 @@
 
 ## 🏗️ Project Architecture: AI-Powered Cold Email Generator
 
-![Project Architecture]("project architecture.png")
+![Project Architecture](project%20architecture.png)
+
 
 ### 1. Frontend (User Interface)
 - Input field to paste job posting URL
